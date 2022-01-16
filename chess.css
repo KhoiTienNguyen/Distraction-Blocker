@@ -1,0 +1,23 @@
+#username {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+#username span {
+    font-size: 24px;
+    text-align: center;
+    /* margin-left: 2.5em; */
+    padding: 0 0em 0.5em 0;
+    /* border-width: 2px; */
+    /* border-color: black; 
+    border-style:solid; */
+}
+#myBoard {
+    margin: 0 auto;
+}
+#fish_button {
+    text-align: center;
+    padding: 0 0em 1em 0;
+    margin: 0 auto;
+}
+  

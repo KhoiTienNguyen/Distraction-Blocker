@@ -1,0 +1,1 @@
+chrome.runtime.sendMessage({redirect: "http://localhost:1504/quiz1.html"});
